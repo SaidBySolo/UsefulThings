@@ -16,7 +16,4 @@ if %mode%==2 (
         move %cd%\Temporary\FahkumGalaxyHead_P.pak %cd%
         echo Apply complete.
         pause
-    ) else (
-        echo error
-    )
 )
